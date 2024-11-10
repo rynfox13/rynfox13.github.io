@@ -19,7 +19,7 @@ The Event Manager API by ExampleSoft allows developers to create, manage, and tr
   - [Update Event](#update-event)
   - [Delete Event](#delete-event)
   - [RSVP](#rsvp)
-- [Error Codes and Handling](#error-codes-and-handling)
+- [Error Codes](#error-codes)
 - [Sample Client Program](#sample-client-program)
 
 ## Authorization
@@ -232,7 +232,7 @@ Replace `<YOUR_TOKEN_HERE>` with your actual token. Include this header in each 
 
 ---
 
-## Error Codes and Handling
+## Error Codes
 
 | Code | Message           | Description                                             |
 |------|--------------------|---------------------------------------------------------|
