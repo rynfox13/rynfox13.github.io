@@ -1,39 +1,17 @@
 ---
 layout: page
-title: Writing Portfolio
+title: Technical Writing Portfolio
 permalink: /writing-portfolio/
 ---
 
-# Samples
+I am a technical writer with over 20 years of experience in the information technology field. Throughout my career, I have worked as a software developer, site reliability engineer, and security engineer at companies such as Google, Grubhub, and SiriusXM. In each of these roles, I was responsible for creating and maintaining team documentation.
 
-- API Documentation
-  - [(Mock) Event Manager API Doumentation](api-documentation/mock-event-manager-api.md)
+Due to Non-Disclosure Agreements, I cannot share the documentation I developed for these companies or clients without explicit written permission. Instead, I have included a sample API project and a user guide to demonstrate my technical writing skills.
 
-# Process Summary
+If you'd like to discuss your documentation needs or view additional samples, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rynfox13/) or [GitHub](https://github.com/rynfox13).
 
-1. **Requirements Gathering**:
-   - Review the public endpoints and check for any undocumented functions.
-   - Meet with Subject Matter Experts (SMEs) to understand key use cases and known challenges.
-   - Examine sample and testing code to ensure practical and accurate documentation.
+## Contents
 
-2. **Outline and Planning**:
-   - Create a document outline, including:
-     - Authorization and authentication
-     - Quickstart guide
-     - API endpoint details
-     - Error codes and handling
-     - Sample program using the API
-
-3. **Drafting**:
-   - Draft in Markdown, starting with a sample program to verify API call functionality and understand usage.
-   - Document each endpoint with clear descriptions, parameters, and example responses.
-   - Write out authorization/authentication steps, followed by summaries and general information.
-
-4. **Review and Feedback**:
-   - Proofread for spelling, grammar, and clarity.
-   - Use a git repository to create a pull request for client review.
-   - Incorporate any client feedback and request further input as needed.
-
-5. **Finalization**:
-   - Finalize and commit changes after client approval.
-   - Generate output files (e.g., PDF, HTML) as requested by the client.
+- **[Writing Process](process/)**: An overview of my technical writing process, detailing the steps I follow when working with a client.
+- **[API Documentation](api-documentation/mock-event-manager-api.md)**: Documentation for a fictional API.
+- **[User Guides](user-guides/)**: Includes a sample user guide showcasing my approach to creating clear and useful guides for end users. (This is a work in progress.)
