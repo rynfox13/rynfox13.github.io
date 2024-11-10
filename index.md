@@ -8,4 +8,6 @@ title: Welcome
 ---
 <img style="width: 25%;max-width: 100%;height: auto;float: left;padding-right: 12pt;" src="img/me.jpg">
 
-Hello! I'm Kathryn Fox, a **Site Reliability Engineer** and **technical writer** with a rich blend of skills in **software development**, **security engineering**, and **educational content creation**. Over my career, I've worked with companies like **Google**, **Twitter**, **Grubhub**, and **SiriusXM**, focusing on making resilient systems, optimizing performance, and creating clear, actionable documentation. In my freetime, I write science fiction and produce electronic music.
+Hello! I'm Kathryn Fox, a **Site Reliability Engineer** and **technical writer** with a rich blend of skills in **software development**, **security engineering**, and **educational content creation**, not to mention amateur musician. Here is where I will share articles on technology, writing, music, and any other topics I may find interesting.
+
+Please feel free, look around, and enjoy.
