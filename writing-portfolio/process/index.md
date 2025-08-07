@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writing Process
-permalink: /writing-portfolio/process
+permalink: /writing-portfolio/process/
 ---
 
 1. **Requirements Gathering**:
